@@ -12,7 +12,7 @@ var config = {
 
   var database = firebase.database();
 
-var trial= trial;
+
 
   $(".button-submit").on("click", function(event){
   	event.preventDefault();
