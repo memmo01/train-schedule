@@ -11,12 +11,12 @@ next train will arrive based on the current time.
 
 Technologies used:
 
-Firebase
-Bootstrap
-momentjs
-javascript
-jquery
-html
+Firebase, 
+Bootstrap, 
+momentjs, 
+javascript, 
+jquery, 
+html, 
 css
 
 Author
